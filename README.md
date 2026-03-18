@@ -12,6 +12,8 @@
 
 _Write your own GitHub JavaScript Action and automate customized tasks unique to your workflow._
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/shuvosarker22/write-javascript-actions?utm_source=badge)
+
 </header>
 
 <!--
